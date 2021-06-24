@@ -25,3 +25,4 @@
 </p>
 
 
+#### [CV](https://github.com/dlebauer/vita/raw/master/dlebauer-full-vita.pdf)
