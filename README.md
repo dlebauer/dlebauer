@@ -9,9 +9,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dlebauer&show_icons=true&locale=en" alt="dlebauer" /></p>
 -->
 
-### More About My Group
+### [More About My Group](https://datascience.cals.arizona.edu)
 
-<a href="datascience.arizona.edu" target="blank"><img align="center" src="https://datascience.cals.arizona.edu/sites/datascience.cals.arizona.edu/files/CCT%20logo-primary%402x.png" alt="david's group web page" /></a>
+<a href="https://datascience.cals.arizona.edu" target="blank"><img align="center" src="https://datascience.cals.arizona.edu/sites/datascience.cals.arizona.edu/files/CCT%20logo-primary%402x.png" alt="david's group web page" /></a>
 
 
 ### More About Me:
