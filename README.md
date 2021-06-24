@@ -25,4 +25,6 @@
 </p>
 
 
-#### [CV](https://github.com/dlebauer/vita/raw/master/dlebauer-full-vita.pdf)
+### [Curriculum Vitae](https://github.com/dlebauer/vita/raw/master/dlebauer-full-vita.pdf)
+
+### [Homepage](https://davidlebauer.com)
