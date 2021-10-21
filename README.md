@@ -29,3 +29,5 @@
 <a href="https://scholar.google.com/citations?user=Y___s5cAAAAJ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="david-lebauer's stackoverflow account" height="30" width="40" /></a>
 <a href="mailto:dlebauer@arizona.edu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="david's email address is dlebauer at arizona dot edu" height="30" width="40" /></a>
 </p>
+
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-7228-053X" href="https://orcid.org/0000-0001-7228-053X" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-7228-053X</a></div>
