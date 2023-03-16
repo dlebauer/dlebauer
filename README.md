@@ -15,12 +15,7 @@
 
 ### [Homepage](https://davidlebauer.com)
 
-
-
-### [My Group](https://datascience.cals.arizona.edu)
-
-<a href="https://datascience.cals.arizona.edu" target="blank"><img align="center" src="https://datascience.cals.arizona.edu/sites/datascience.cals.arizona.edu/files/CCT%20logo-primary%402x.png" alt="david's group web page" /></a>
-
+### [CCT Data Science Team at UA](https://datascience.cct.arizona.edu)
 
 ### More About Me:
 
