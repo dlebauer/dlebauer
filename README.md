@@ -1,6 +1,8 @@
 # Hi 👋, I'm David LeBauer
 
-### Director of Data Science, University of Arizona Division of Agriculture, Life and Veterinary Sciences and Cooperative Extension
+### Staff Scientist, Indigo Ag
+
+### Former Director of Data Science, University of Arizona Division of Agriculture, Life and Veterinary Sciences and Cooperative Extension
 
 
 <!--
