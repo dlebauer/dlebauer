@@ -6,12 +6,15 @@ I am a scientist interested in optimizing agricultural systems to maximize yield
 
 ## More About Me:
 
+Available for consultation and other opportunities to work with great people doing interesting and useful work.
+
 - [Curriculum Vitae](https://github.com/dlebauer/vita/raw/master/dlebauer-full-vita.pdf)
 - [Resume](https://github.com/dlebauer/vita/raw/master/dlebauer-resume.pdf)
 - [Website](https://davidlebauer.com)
 
-### Projects
+### Key Contributions
 
+- [California Cropland Measurement and Modeling Framework (Modeling lead, co-PI, and project manager)](https://github.com/ccmmf)
 - [PEcAn Project: Framework for Ecosystem Simulation and Analysis (co-founder, co-PI)](http://pecanproject.org/)
 - [TERRA REF: Data and Computing for Plant Phenotyping (data and computing lead)](https://terraref.org)
 - [University of Arizona CCT Data Science Team (founder)](https://datascience.cct.arizona.edu)
