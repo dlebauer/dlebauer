@@ -1,14 +1,7 @@
 # David LeBauer
 
-Biogeochemist and ecosystem ecologist building open, data‑driven models for agriculture,
-ecosystem management, and carbon monitoring.
-
-## About
-
-I focus on biogeochemistry, ecosystem modeling, and open science. I develop models and software
-that support agricultural sustainability, ecosystem management, and carbon MRV.
-Open to collaborations and advisory roles. For consulting details, see
-[The LeBauer Approach LLC](https://davidlebauer.com).
+Biogeochemist and ecosystem ecologist building software, models, and data to support agricultural sustainability,
+ecosystem management, and carbon monitoring. Open to collaborations and advisory roles.
 
 ## Current Positions:
 
