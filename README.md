@@ -1,7 +1,6 @@
-# David LeBauer
+# David LeBauer, Ph.D.
 
-Biogeochemist and ecosystem ecologist building software, models, and data to support agricultural sustainability,
-ecosystem management, and carbon monitoring. Open to collaborations and advisory roles.
+Specialist in biogeochemistry and ecosystem ecology, creating tools and models to advance sustainability in agriculture, ecosystem stewardship, and carbon monitoring. Open to scientific collaborations and advisory roles.
 
 ## Current Positions:
 
