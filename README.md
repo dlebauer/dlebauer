@@ -1,32 +1,45 @@
-# Hi 👋, I'm David LeBauer
+# David LeBauer
 
-## Scientist
+Biogeochemist and ecosystem ecologist building open, data‑driven models for agriculture,
+ecosystem management, and carbon monitoring.
 
-I am a scientist specializing in biogeochemistry, ecosystem ecology, and open science. I develop data-driven models and software tools that enhance agricultural sustainability, ecosystem management, and carbon monitoring.
+## About
+
+I focus on biogeochemistry, ecosystem modeling, and open science. I develop models and software
+that support agricultural sustainability, ecosystem management, and carbon MRV.
+Open to collaborations and advisory roles. For consulting details, see
+[The LeBauer Approach LLC](https://davidlebauer.com).
 
 ## Current Positions:
 
 - Founder & Principal Scientist, [The LeBauer Approach LLC](https://davidlebauer.com)
 - Associate Data Scientist, [University of Arizona CCT Data Science Team](https://datascience.cct.arizona.edu)
 
-## More About Me:
+## Selected Projects
 
-Open to collaborations, consulting, and advisory roles in ecosystem modeling, carbon monitoring, data science, and open research.
+- **[California Cropland Measurement & Modeling Framework](https://github.com/ccmmf)**  
+  *Modeling Lead, Co-PI, Project Manager.* Statewide GHG inventories and scenario based projections.
 
-- [Curriculum Vitae](https://github.com/dlebauer/vita/raw/master/dlebauer-full-vita.pdf)
-- [Resume](https://github.com/dlebauer/vita/raw/master/dlebauer-resume.pdf)
-- [Website](https://davidlebauer.com)
+- **[PEcAn Project](http://pecanproject.org/)**  
+  *Creator, Co-PI.* Ecosystem simulation and analysis platform.
 
-### Key Contributions:
+- **[TERRA REF](https://terraref.org)**  
+  *Data & Computing Lead.* >1PB public domain plant sensing and phenotyping data.
 
-- [California Cropland Measurement and Modeling Framework (Modeling lead, co-PI, and project manager)](https://github.com/ccmmf)
-- [PEcAn Project: Framework for Ecosystem Simulation and Analysis (co-founder, co-PI)](http://pecanproject.org/)
-- [TERRA REF: Data and Computing for Plant Phenotyping (data and computing lead)](https://terraref.org)
-- [University of Arizona CCT Data Science Team (founder)](https://datascience.cct.arizona.edu)
-- [BETYdb: Database of Plant Traits & Ecosystem Services (creator, maintainer)](http://www.betydb.org/)
-- [traits R package: Interface to Plant Trait Data Sources (maintainer)](https://docs.ropensci.org/traits/reference/traits-package.html)
+- **[UA CCT Data Science Team](https://datascience.cct.arizona.edu)**  
+  *Founder.* Enabling cutting edge data, statistics, and computation for the UA College of Ag and beyond.
 
-### Connect With Me
+- **[BETYdb](http://www.betydb.org/)**  
+  *Creator, Maintainer.* Open database for plant traits and ecosystem services.
+
+- **[`traits` R package](https://docs.ropensci.org/traits/reference/traits-package.html)**  
+  *Maintainer.* Interface to various plant trait databases.
+
+## More Information
+
+- [Curriculum Vitae (PDF)](https://github.com/dlebauer/vita/raw/master/dlebauer-full-vita.pdf)
+- [Résumé (PDF)](https://github.com/dlebauer/vita/raw/master/dlebauer-resume.pdf)
+- [Personal Website](https://davidlebauer.com)
 
 <p align="left">
 <a href="https://linkedin.com/in/dlebauer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="david lebauer's linked in account" height="30" width="40" /></a>
