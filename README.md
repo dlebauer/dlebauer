@@ -10,22 +10,22 @@ ecosystem management, and carbon monitoring. Open to collaborations and advisory
 
 ## Selected Projects
 
-- **[California Cropland Measurement & Modeling Framework](https://github.com/ccmmf)**  
+- [California Cropland Measurement & Modeling Framework](https://github.com/ccmmf)  
   *Modeling Lead, Co-PI, Project Manager.* Statewide GHG inventories and scenario based projections.
 
-- **[PEcAn Project](http://pecanproject.org/)**  
+- [PEcAn Project](http://pecanproject.org/)  
   *Creator, Co-PI.* Ecosystem simulation and analysis platform.
 
-- **[TERRA REF](https://terraref.org)**  
+- [TERRA REF](https://terraref.org)  
   *Data & Computing Lead.* >1PB public domain plant sensing and phenotyping data.
 
-- **[UA CCT Data Science Team](https://datascience.cct.arizona.edu)**  
+- [UA CCT Data Science Team](https://datascience.cct.arizona.edu)  
   *Founder.* Enabling cutting edge data, statistics, and computation for the UA College of Ag and beyond.
 
-- **[BETYdb](http://www.betydb.org/)**  
+- [BETYdb](http://www.betydb.org/)  
   *Creator, Maintainer.* Open database for plant traits and ecosystem services.
 
-- **[`traits` R package](https://docs.ropensci.org/traits/reference/traits-package.html)**  
+- [`traits` R package](https://docs.ropensci.org/traits/reference/traits-package.html)  
   *Maintainer.* Interface to various plant trait databases.
 
 ## More Information
